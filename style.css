@@ -1,0 +1,17 @@
+img {
+    height: 50px;
+    
+    
+}
+nav {
+    background-color: aqua;
+    
+}
+
+table, th, td {
+        border: 1px solid black;
+      }
+.container {
+    display: flex;
+    flex-direction: column;
+}
